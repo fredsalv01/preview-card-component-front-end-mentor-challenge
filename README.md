@@ -24,6 +24,9 @@ Your users should be able to:
 
 Notes:
 "I have created a media styles in css file where I fix an issue caused by screens under 300px in that case the galaxy fold."
+So you will have this kind of aspect in the page when you inspect it and select the galaxy fold device width
+![280px width - Galaxy Fold](./design/desktop-preview.jpg)
+
 
 ## Visit the preview
 https://main--css-challenge-preview-card.netlify.app/

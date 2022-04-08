@@ -21,5 +21,9 @@ Your users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
+
+Notes:
+"I have created a media styles in css file where I fix an issue caused by screens under 300px in that case the galaxy fold."
+
 ## Visit the preview
 https://main--css-challenge-preview-card.netlify.app/
